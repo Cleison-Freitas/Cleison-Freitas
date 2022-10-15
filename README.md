@@ -14,8 +14,4 @@ Atualmente moro no bairro Pavuna-RJ.
 [![website](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://cleisoncaetano.epizy.com/?i=1)
 
 ![Cleison GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleison-Freitas&show_icons=true&theme=radical)
-
-
- 
-
 ![snake gif](https://github.com/Cleison-Freitas/blob/output/github-contribution-grid-snake.svg)
