@@ -1,7 +1,6 @@
 ### Olá! Eu sou Cleison Freitas.
 
 Atualmente trabalho com gestão de estoque.
-
 Estudante apaixonado de front end e back end.
 
 Atualmente moro no bairro Pavuna-RJ.
